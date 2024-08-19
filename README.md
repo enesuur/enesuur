@@ -1,35 +1,12 @@
 # 👋 Hi, I’m Enes.
 
-🚀 I’m a dedicated software engineer with a strong foundation in both front-end and back-end development. Passionate about solving complex problems, I thrive on crafting innovative and efficient solutions. Whether it's optimizing existing systems or pioneering new technologies, I’m always eager to take on new challenges.
+🚀 A dedicated software engineer with expertise in front-end and back-end development. I thrive on solving complex problems and delivering innovative solutions, whether by optimizing systems or pioneering new technologies.
 
 ## 🚩 Technologies I Mostly Use
 
-### Front-End Stack
-- **Languages & Libraries:** HTML, CSS, JavaScript, React.js, Next.js, Vite
-- **State Management:** Redux, Context API
-- **UI Frameworks & Tools:** Bootstrap, Tailwind CSS, Material UI
-- **Web3 Technologies:** Web3.js, Ether.js
-- **Styling:** SCSS
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Vite, Redux, Tailwind CSS, Material UI, Web3.js
+- **Backend:** Node.js, Express.js, MongoDB, Firebase, MySQL
+- **Languages:** JavaScript, Java, Python, SQL, R
+- **Tools:** Git, VS Code, Postman, Figma, IntelliJ IDEA
 
-### Back-End Stack
-- **Server & Frameworks:** Node.js, Express.js
-- **Databases:** MongoDB, Firebase, MySQL
-
-### Programming Languages
-- JavaScript
-- Java
-- Python
-- SQL
-- R
-
-### Tools & Programs
-- Git
-- Visual Studio Code
-- R Studio
-- Postman
-- Eclipse
-- Pycharm
-- IntelliJ IDEA
-- Figma
-
-📫 Feel free to shoot a message via [raidodev@gmail.com](mailto:raidodev@gmail.com)
+📫 Reach out: [raidodev@gmail.com](mailto:raidodev@gmail.com)
