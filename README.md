@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Enes.
 
-🚀 A dedicated software engineer with expertise in front-end and back-end development. I thrive on solving complex problems and delivering innovative solutions, whether by optimizing systems or pioneering new technologies.
+🚀 A dedicated software engineer with expertise in front-end and back-end development. I thrive on solving complex problems and delivering innovative solutions, whether by optimizing systems or pioneering new technologies. Besides that, I enjoy video games, basketball, and table tennis.
 
 ## 🚩 Technologies I Mostly Use
 
