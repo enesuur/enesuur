@@ -6,8 +6,8 @@
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Vite, Redux, Tailwind CSS, Material UI, Web3.js
 - **Backend:** Node.js, Express.js, MongoDB, Firebase, MySQL
-- **Languages:** JavaScript, Java, Python, SQL, R
-- **Tools:** Git, VS Code, Postman, Figma, IntelliJ IDEA
+- **Languages:** JavaScript,Typescript, Java, Python, SQL, R
+- **Tools:** Git, VS Code, Postman, Figma, IntelliJ IDEA,Android Studio,Eclipse
 
 📫 Reach out: [raidondev@gmail.com](mailto:raidondev@gmail.com)  
 🔗 Personal Website: [https://enesugur.cloud](https://enesugur.cloud)  
