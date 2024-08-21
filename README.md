@@ -9,6 +9,6 @@
 - **Languages:** JavaScript, Java, Python, SQL, R
 - **Tools:** Git, VS Code, Postman, Figma, IntelliJ IDEA
 
-📫 Reach out: [raidodev@gmail.com](mailto:raidodev@gmail.com)  
+📫 Reach out: [raidondev@gmail.com](mailto:raidondev@gmail.com)  
 🔗 Personal Website: [https://enesugur.cloud](https://enesugur.cloud)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/enesuur/)
