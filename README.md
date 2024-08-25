@@ -13,4 +13,3 @@
 📫 Reach out: [raidondev@gmail.com](mailto:raidondev@gmail.com)  
 🔗 Personal Website: [https://enesugur.cloud](https://enesugur.cloud)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/enesuur/)
-![](https://komarev.com/ghpvc/?username=enesuur)
