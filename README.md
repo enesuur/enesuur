@@ -11,5 +11,5 @@
 - **Tools:** Git, VS Code, Postman, Figma, IntelliJ IDEA,Android Studio,Eclipse
 
 📫 Reach out: [raidondev@gmail.com](mailto:raidondev@gmail.com)  
-🔗 Personal Website: [https://enesugur.cloud](https://enesugur.cloud)  
+🔗 Personal Website: [https://enesugur.xyz](https://enesugur.xyz)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/enesuur/)
